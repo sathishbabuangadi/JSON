@@ -1,0 +1,38 @@
+[{
+    "itemID": 1234,
+    "itemName": "Product1",
+    "description": "product description",
+    "price": "$100",
+    "category": "Food Grains",
+    "imageName": "image1"
+},
+{
+    "itemID": 1235,
+    "itemName": "Product2",
+    "description": "product description",
+    "price": "$110",
+    "category": "Food Grains",
+    "imageName": "image2"
+},{
+    "itemID": 1236,
+    "itemName": "Product3",
+    "description": "product description",
+    "price": "$120",
+    "category": "Food Grains",
+    "imageName": "image3"
+},{
+    "itemID": 1237,
+    "itemName": "Product4",
+    "description": "product description",
+    "price": "$130",
+    "category": "Food Grains",
+    "imageName": "image4"
+},{
+    "itemID": 1238,
+    "itemName": "Product5",
+    "description": "product description",
+    "price": "$140",
+    "category": "Food Grains",
+    "imageName": "image5"
+}
+]
